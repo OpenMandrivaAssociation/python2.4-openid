@@ -60,3 +60,4 @@ rm -rf %{buildroot}
 %doc background-associations.txt CHANGELOG LICENSE NEWS README doc examples
 %{python_sitelib}/*
 
+
