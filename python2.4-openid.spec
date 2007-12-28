@@ -16,6 +16,8 @@ BuildArch:      noarch
 Requires:	python2.4
 BuildRequires:	python2.4-setuptools
 BuildRequires:  python2.4-elementtree
+BuildRequires:	python2.4
+BuildRequires:	python2.4-devel
 
 %description
 The OpenID library with batteries included.
