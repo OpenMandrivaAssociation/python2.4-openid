@@ -3,7 +3,7 @@
 
 Name:           python2.4-openid
 Version:        2.0.1
-Release:        %mkrel 1
+Release:        %mkrel 3
 Summary:        Python OpenID libraries
 Group:          Development/Python
 License:        Apache License
